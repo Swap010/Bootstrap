@@ -1,0 +1,33 @@
+.fullscreenlanding
+{
+    background: white url(../images/img/overlays/g1.jpg) no-repeat ;
+    height: 150vh;
+    background-size: cover;
+}
+.overlay
+{
+    background-color: rgba(0,0,0,0.5);
+    height:100% 
+}
+.search-box
+{
+    height: 50px;
+    width: 500px;
+    border-radius: 70px;
+}
+.subscribe-section
+{
+    background: white url(../images/img/overlays/g1.jpg) no-repeat ;
+    background-size: cover;
+    
+}
+.subscribe-overlay
+{
+    
+    background-color: rgba(0,0,0,0.5);
+    height:100%
+}
+.bg
+{
+    background: url(../images/img/overlays/back1.jfif) ;
+}
